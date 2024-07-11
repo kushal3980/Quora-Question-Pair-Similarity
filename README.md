@@ -17,6 +17,13 @@ This project predicts the similarity between pairs of questions from Quora using
 
 This project aims to build a machine learning model that determines whether two questions asked on Quora are similar. It utilizes both Random Forest and XGBoost models to predict question pair similarity, with Random Forest demonstrating superior accuracy.
 
+## Dataset
+
+The dataset used for this project can be accessed from (https://www.kaggle.com/datasets/kushalbarot/quora-train).
+The real and whole dataset can be accessed from (https://www.kaggle.com/competitions/quora-question-pairs).
+
+
+
 ## Installation
 
 1. Clone the repository:
