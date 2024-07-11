@@ -19,7 +19,7 @@ This project aims to build a machine learning model that determines whether two 
 
 ## Dataset
 
-The dataset used for this project can be accessed from (https://www.kaggle.com/datasets/kushalbarot/quora-train).
+The dataset used for this project can be accessed from (https://www.kaggle.com/datasets/kushalbarot/quora-train). <br>
 The real and whole dataset can be accessed from (https://www.kaggle.com/competitions/quora-question-pairs).
 
 
