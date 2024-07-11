@@ -38,7 +38,7 @@ This project aims to build a machine learning model that determines whether two 
 
 ## Usage
 
-1. Load the necessary data files, including `cv.pkl` and `stopwords.pkl`.
+1. Load the necessary data files, including `cv.pkl` and `model.pkl`.
 2. Preprocess the input questions.
 3. Extract features using token features, length features, fuzzy features, and Bag of Words (BoW) features.
 4. Train the Random Forest and XGBoost models.
@@ -71,11 +71,3 @@ The feature extraction process includes:
 ## Model Training
 
 Train both Random Forest and XGBoost models using the extracted features. Random Forest has shown better accuracy for predicting question pair similarity in this project.
-
-## Contributing
-
-Contributions are welcome. Please fork the repository and create a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
